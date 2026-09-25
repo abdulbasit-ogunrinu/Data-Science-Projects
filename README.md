@@ -1,4 +1,4 @@
-# Data Scince Projects
+# Data Science Projects
 This is a repository of data science and machine learning projects that aim to solve real world problems by using data-driven insights. Every project has a realized end-to-end process of work, i.e., data collection and preprocessing, models development, evaluation, and interpretation.
 
 
